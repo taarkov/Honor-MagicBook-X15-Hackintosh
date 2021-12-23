@@ -22,3 +22,16 @@ Device  | Status
 - On Windows, when you limit battery percentage on PC Manager it also limits on macOS too. I didn't check time but at %74 battery i run 3 or 3.30 hours i guess, not sure.
 - Tested 10.15.7 Catalina and 12.0.1 Monterey. Big Sur should work fine.
 - OpenCore version is 0.7.6
+
+
+![Windows 10 + Monterey + Catalina](https://www.technopat.net/sosyal/eklenti/monterey_catalina_windows10-png.1249437/ "Windows 10 + Monterey + Catalina")
+
+![Catalina 10.15.7](https://www.technopat.net/sosyal/eklenti/magicbookx15_hackintosh_catalina-jpeg.1249465/ "Catalina 10.15.7")
+
+![Geekbench Score](https://www.technopat.net/sosyal/eklenti/magicbookx15_hackintosh_geekbench-jpeg.1249459/ "Geekbench Score")
+
+![CPU Values while running Geekbench](https://www.technopat.net/sosyal/eklenti/magicbookx15_catalina_geekbench_values-jpeg.1249467/ "CPU Values while running Geekbench")
+
+![Bluetooth](https://www.technopat.net/sosyal/eklenti/bluetooth-png.1249436/ "Bluetooth")
+
+![Audio Outputs](https://www.technopat.net/sosyal/eklenti/taninmis_ses-png.1249438/ "Audio Outputs")
