@@ -16,6 +16,7 @@ Device  | Status
 | Realtek ALC256 | Works Perfectly Fine! |
 
                 
+
 ### Notes
 - Change MLB, ROM etc. after installing macOS by using GenSMBIOS
 - You may can't connect to Apple Devices on Bluetooth. Reason is Airportitlwm.kext. I use Airportitlwm.kext for native Wi-Fi. If you want to connect Apple Devices, you have to replace it with itlwm.kext and you have to use Heliport to use Wi-Fi.
@@ -23,8 +24,9 @@ Device  | Status
 - Tested 10.15.7 Catalina and 12.0.1 Monterey. Big Sur should work fine.
 - OpenCore version is 0.7.6
 
+                
 
-![Windows 10 + Monterey + Catalina](https://www.technopat.net/sosyal/eklenti/monterey_catalina_windows10-png.1249437/)
+![Windows 10 + Monterey + Catalina](https://www.technopat.net/sosyal/eklenti/monterey_catalina_windows10-png.1249437/ "Windows 10 + Monterey + Catalina")
 
 ![Catalina 10.15.7](https://www.technopat.net/sosyal/eklenti/magicbookx15_hackintosh_catalina-jpeg.1249465/ "Catalina 10.15.7")
 
