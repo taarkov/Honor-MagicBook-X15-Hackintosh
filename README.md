@@ -1,5 +1,6 @@
 # Honor-MagicBook-X15-Hackintosh
 Honor MagicBook X15 Hackintosh EFI
+
 ###About Honor MagicBook X 15
                 
 Device  | Status
