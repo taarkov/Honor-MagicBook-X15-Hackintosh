@@ -1,7 +1,7 @@
 # Honor-MagicBook-X15-Hackintosh
 Honor MagicBook X15 Hackintosh EFI
 
-###About Honor MagicBook X 15
+### About Honor MagicBook X 15
                 
 Device  | Status
 ------------- | -------------
@@ -16,7 +16,7 @@ Device  | Status
 | Realtek ALC256 | Works Perfectly Fine! |
 
                 
-###Notes
+### Notes
 - Change MLB, ROM etc. after installing macOS by using GenSMBIOS
 - You may can't connect to Apple Devices on Bluetooth. Reason is Airportitlwm.kext. I use Airportitlwm.kext for native Wi-Fi. If you want to connect Apple Devices, you have to replace it with itlwm.kext and you have to use Heliport to use Wi-Fi.
 - On Windows, when you limit battery percentage on PC Manager it also limits on macOS too. I didn't check time but at %74 battery i run 3 or 3.30 hours i guess, not sure.
