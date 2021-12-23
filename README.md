@@ -24,7 +24,7 @@ Device  | Status
 - OpenCore version is 0.7.6
 
 
-![Windows 10 + Monterey + Catalina](https://www.technopat.net/sosyal/eklenti/monterey_catalina_windows10-png.1249437/ "Windows 10 + Monterey + Catalina")
+![Windows 10 + Monterey + Catalina](https://www.technopat.net/sosyal/eklenti/monterey_catalina_windows10-png.1249437/)
 
 ![Catalina 10.15.7](https://www.technopat.net/sosyal/eklenti/magicbookx15_hackintosh_catalina-jpeg.1249465/ "Catalina 10.15.7")
 
