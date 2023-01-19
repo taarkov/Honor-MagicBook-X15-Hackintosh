@@ -13,7 +13,7 @@ Device  | Status
 | Intel Bluetooth  | Works! **Read Notes!** |
 | Battery  | Works Perfectly Fine! **Read Notes!**   |
 | I2C HID Touchpad | Works Perfectly Fine!  |
-| Realtek ALC256 | Works Perfectly Fine! |
+| Realtek ALC256/Conexant CX8070 | Works Perfectly Fine! **Read Notes!** |
 
                 
 
@@ -23,6 +23,7 @@ Device  | Status
 - On Windows, when you limit battery percentage on PC Manager it also limits on macOS too. I didn't check time but at %74 battery i run 3 or 3.30 hours i guess, not sure.
 - Tested 10.15.7 Catalina and 12.0.1 Monterey. Big Sur should work fine.
 - OpenCore version is 0.7.6
+- For Conexant CX8070 audio codec (Check you codec with instruction: [Finding your layout ID](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#finding-your-layout-id) before install) change config.plist->NVRAM->Add->7C436110-AB2A-4BBB-A880-FE41995C9F82->boot-args | String | **alcid=15**
 
                 
 ### Windows 10 + Monterey + Catalina
