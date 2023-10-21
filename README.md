@@ -24,7 +24,4 @@ Device  | Status
 
                 
 ### Latest
-![Latest EFI & Ventura 13.5](https://www.technopat.net/sosyal/eklenti/ekran-resmi-2023-10-21-19-02-04-png.1985210/")
-
-### Catalina 10.15.7
-![Catalina 10.15.7](https://www.technopat.net/sosyal/eklenti/magicbookx15_hackintosh_catalina-jpeg.1249465/ "Catalina 10.15.7")
+![Latest EFI & Ventura 13.5](https://www.technopat.net/sosyal/eklenti/ekran-resmi-2023-10-21-19-02-04-png.1985210/ "Latest EFI & Ventura 13.5")
