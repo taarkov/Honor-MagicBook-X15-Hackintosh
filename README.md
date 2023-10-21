@@ -1,7 +1,7 @@
 # Honor-MagicBook-X15-Hackintosh
 
 ### About Honor MagicBook X 15
-                
+![Honor MagicBook X15](https://www.technopat.net/sosyal/eklenti/1697901654413-png.1985096/ "Honor MagicBook X15")                
 Device  | Status
 ------------- | -------------
 | Intel® Core™ i5-10210U  | ✅ SSDT-PLUG & PR00 combo. Not using CPUFriend. |
