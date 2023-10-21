@@ -1,17 +1,16 @@
 # Honor-MagicBook-X15-Hackintosh
-Honor MagicBook X15 Hackintosh EFI
 
 ### About Honor MagicBook X 15
                 
 Device  | Status
 ------------- | -------------
 | Intel® Core™ i5-10210U  | ✅ SSDT-PLUG & PR00 combo. Not using CPUFriend. |
-| Intel CoffeeLake-H GT2 [UHD Graphics 630]  | ✅  |
-| Micron 4ATF51264HZ-3G2J1 2400MHz RAM(2x4)  | ✅  |
-| 512GB KXG60ZNV512G NVMe  | ✅  |
+| Intel CoffeeLake-H GT2 [UHD Graphics 630]  | ✅ Works functional. |
+| Micron 4ATF51264HZ-3G2J1 2400MHz RAM(2x4)  | ✅ Works functional. |
+| 512GB KXG60ZNV512G NVMe  | ✅ Works functional. |
 | Intel Wireless-AC 9560 160MHz Wi-Fi & Intel BT | ✅ Using Native Wi-Fi & BT |
 | Desay HB4792J5ECW-31 Battery  | ✅  Battery charging & Status synced with PC Manager  |
-| I2C HID Touchpad | ✅   |
+| I2C HID Touchpad | ✅ Works functional.  |
 | Realtek ALC256 | ✅ Using Layout-id 95 |
 
                 
