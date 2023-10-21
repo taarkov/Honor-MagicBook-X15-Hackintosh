@@ -4,6 +4,7 @@
 <p align="center">
   <img width="500" height="500" src="https://www.hihonor.com/content/dam/honor/uk/product-list/laptop/honor-magicbook-x15/magicbook-x15-listimage-pc-grey.png">
 </p>
+
 Device  | Status
 ------------- | -------------
 | Intel® Core™ i5-10210U  | ✅ SSDT-PLUG & PR00 combo. Not using CPUFriend. |
