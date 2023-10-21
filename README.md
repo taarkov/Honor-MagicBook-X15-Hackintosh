@@ -2,7 +2,7 @@
 
 ### About Honor MagicBook X15
 <p align="center">
-![Honor MagicBook X15](https://www.technopat.net/sosyal/eklenti/1697901654413-png.1985096/ "Honor MagicBook X15")
+  <img width="500" height="500" src="https://www.hihonor.com/content/dam/honor/uk/product-list/laptop/honor-magicbook-x15/magicbook-x15-listimage-pc-grey.png">
 </p>
 Device  | Status
 ------------- | -------------
